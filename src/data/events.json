@@ -1,0 +1,35 @@
+[
+  {
+    "id": "event-1",
+    "title": "FLAP Indonesia Medan Tour",
+    "tag": "BUILDER SUMMIT + PADEL",
+    "description": "Hosted 150 builders at Baqa Cafe for AI discussions plus a community padel tournament.",
+    "stats": "150+ Attendees • Luma Verified • 2 Days",
+    "link_url": "https://t.me/MedanCryptoCommunity",
+    "image_src": "/images/event-flap-tour.jpg",
+    "venue": "Baqa Cafe & Medan Padel",
+    "category": "builder_summit"
+  },
+  {
+    "id": "event-2",
+    "title": "Crypto Sunset Beach @ Tenank",
+    "tag": "LIVE TRADING COMPETITION",
+    "description": "Gathered local traders at Tenank Ngumban for live chart competitions and beachside networking.",
+    "stats": "Live Trading Cup • Free Entry • Merch",
+    "link_url": "https://t.me/MedanCryptoCommunity",
+    "image_src": "/images/event-sunset-beach.jpg",
+    "venue": "Tenank Ngumban",
+    "category": "trading_competition"
+  },
+  {
+    "id": "event-3",
+    "title": "Bitcoin Pizza Day × Bybit",
+    "tag": "EXCHANGE PARTNERSHIP",
+    "description": "Celebrated Bitcoin history with 120 members, free pizza, and official Bybit Indonesia sponsorship.",
+    "stats": "Bybit Official Support • 120+ Members",
+    "link_url": "https://t.me/MedanCryptoCommunity",
+    "image_src": "/images/event-pizza-day.jpg",
+    "venue": "Medan Hub",
+    "category": "partnership_meetup"
+  }
+]
